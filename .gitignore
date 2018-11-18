@@ -1,6 +1,8 @@
 /target/
 !.mvn/wrapper/maven-wrapper.jar
 
+api/target
+model/target
 
 ### IntelliJ IDEA ###
 .idea
